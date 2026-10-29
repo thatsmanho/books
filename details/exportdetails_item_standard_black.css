@@ -1,0 +1,157 @@
+body {
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:8pt;
+	color:#FFF;
+   background-color:#000;
+	margin:10px;
+}
+a:link, a:visited {
+	text-decoration:underline;
+	color:#FDDB2B;
+} 
+a:hover {
+	text-decoration:underline;
+	color:#FDDB2B;
+}
+.header {
+	font-size:11pt;	
+	font-weight:bold;
+	padding-bottom:3px;
+	color:#FDDB2B;
+}
+#topbar {
+	font-size:10pt;
+	font-weight:bold;
+	margin-bottom:10px;
+}
+#isbn {
+	font-size:8pt;
+	color:#FDDB2B;
+}
+.smalldetails {
+	font-size:10pt;
+}
+.smallerdetails {
+	font-size:8pt;
+}
+#maintitle {
+	font-size:18pt;
+	font-weight:bold;
+	color:#FDDB2B;
+}
+
+#author {
+	font-size:16pt;
+	font-weight:bold;
+	color:#FDDB2B;
+}
+
+#formatfield{
+	font-size:16pt;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+#frontcover {
+	float:left;
+	clear:left;
+	margin-right:10px;
+	margin-bottom:10px;
+	width:150px;
+}
+#backcover {
+	float:right;
+	margin-right:10px;
+	margin-top:10px;
+	margin-bottom:10px;
+	width:150px;
+}
+img.coverimage {
+   border:0px;
+	width:150px;
+}
+#indexvalue {
+   padding-top:8px;
+	font-size:11pt;
+	font-weight:bold;
+}
+#productdetails {
+	float:left;
+	margin-right:20px;
+	margin-bottom:10px; 
+}
+#personaldetails {
+	float:left;
+	margin-left:10px;
+	margin-right:10px;
+	margin-bottom:10px;  
+}
+#imagefiles {
+	clear:both;
+}
+img.imagefile {
+   border:0px;
+	height:100px;	
+}
+#ebooklinks {
+	clear:both;
+	float:left;
+	margin-right:20px;
+}
+#audiobooklinks {
+	float:left;
+}
+#notes {
+	clear:both;
+}
+#stories {
+	clear:both;
+}
+.fieldvaluelarge {
+	font-size:10pt;
+	font-weight:bold;
+	color:#FFF;
+}
+.fieldlabel {
+	font-size:8pt;
+	padding-top:1px;
+	padding-bottom:1px;
+}
+.fieldvalue {
+	font-size:8pt;
+	font-weight:bold;
+	padding-top:1px;
+	padding-bottom:1px;
+	padding-left:5px;
+}
+.character {
+	font-size:8pt;
+	font-weight:bold;
+	padding-top:1px;
+	padding-bottom:1px;
+	padding-left:5px;
+}
+.searchresult {
+  color:Black;
+  background-color:#FFFF93;
+}
+.navigation {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.navlink {
+  padding-left:20px;
+  padding-right:20px;
+  text-align:center;
+  display:inline;
+  color:#FFF;
+  font-size:8pt;
+  font-weight:bold;
+}
+.navlink a {
+	color:#FFF;
+	font-size:8pt;
+	font-weight:bold;
+}
+.navlink a:hover {
+	color:#FDDB2B;
+}
